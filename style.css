@@ -58,6 +58,9 @@ body {
 .bar a:nth-of-type(1) {
     color: rgb(27, 255, 255);
 }
+.bar a:hover{
+    cursor:pointer;
+}
 
 .content {
 
